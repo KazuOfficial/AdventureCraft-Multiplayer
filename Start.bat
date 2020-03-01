@@ -1,0 +1,1 @@
+javaw -Xmx512m -Xms512m -Xincgc -cp AdventureCraft.jar;ACBin.jar;js.jar;./resources/;./.minecraft/bin/jinput.jar;./.minecraft/bin/lwjgl.jar;./.minecraft/bin/lwjgl_util.jar;./.minecraft/bin/minecraft.jar -Djava.library.path=./.minecraft/bin/natives AdventureCraft ran

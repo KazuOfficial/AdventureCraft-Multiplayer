@@ -1,0 +1,4 @@
+1. procyon acbin
+2. load a class that u want to change from the project
+3. set build path
+4. export

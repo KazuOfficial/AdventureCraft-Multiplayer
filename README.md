@@ -1,2 +1,4 @@
 # AdventureCraft-Multiplayer
-A mod that adds multiplayer functionality to AdventureCraft
+Multiplayer functionality in AdventureCraft!
+
+![alt text](https://github.com/KazuOfficial/AdventureCraft-Multiplayer/blob/master/Capture.png)
